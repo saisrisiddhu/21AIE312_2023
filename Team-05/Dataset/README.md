@@ -1,8 +1,8 @@
 ### Dataset consists of 21 classes.
 
-SNo.	Character Obtained	Character	Character name	No. of images obtained
+### SNo.	Character Obtained	Character	Character name	No. of images obtained
 
-1	 	        ன	                    Aii ki matra	            110
+### 1	 	        ன	                    Aii ki matra	            110
 
 2	 	        பெ                     Ee ki matra	              235
 
