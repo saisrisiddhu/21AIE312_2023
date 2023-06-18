@@ -7,4 +7,4 @@ The SIPaKMED dataset is a publicly available dataset that consists of cervical i
 
 HOW TO RUN
 Run the file DLSIP RESNET50 91.ipynb for performing the classification of cervical cancer cells. The trained model is stored as an h5 file.
-Run the file 
+Run the file GUI_CervicalCancerCellClassification.ipynb which makes use of image_classifier.py file to classify and test the image.
