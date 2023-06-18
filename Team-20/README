@@ -1,10 +1,23 @@
-ABOUT PROJECT
-An automatic screening and classification system for cervical cancer cells using deep learning techniques is developed. 
-ResNet-50 is used to conduct cervical cancer screening and apply Deep Learning classification techniques to the SIPAKMED pap-smear image dataset.
-
+Cervical Cancer Cell Classification Project
+An automatic screening and classification system for cervical cancer cells using deep learning techniques is developed.
+The ResNet-50 architecture is a powerful convolutional neural network that has shown excellent performance in image classification tasks.
+An interactive UI is developed to choose among three CNN architectures and perform the classification on the browed image from your local folder.
+ 
 DATASET
-The SIPaKMED dataset is a publicly available dataset that consists of cervical images. 4049 isolated cells images are manually cropped to obtain 966 cluster images. 
+The SIPaKMED dataset is a publicly available dataset that consists of cervical images. 4049 isolated cells images are manually cropped to obtain 966 cluster images.
+The dataset has five types of cancer cells and it is class balanced.
+
+To run this project, the following dependencies need to be installed:
+Python 3 (version 3.6 or later)
+TensorFlow (version 2.0 or later)
+Keras (version 2.0 or later)
+NumPy
+Matplotlib
+PIL
+gradio
+opencv-python
 
 HOW TO RUN
-Run the file DLSIP RESNET50 91.ipynb for performing the classification of cervical cancer cells. The trained model is stored as an h5 file.
-Run the file GUI_CervicalCancerCellClassification.ipynb which makes use of image_classifier.py file to classify and test the image.
+The dataset can be loaded from dataset.zip file.
+Run the file DLSIP RESNET50 91.ipynb for performing the classification of cervical cancer cells. The trained model is stored as an .h5 file.
+Run the file GUI_CervicalCancerCellClassification.ipynb which makes use of image_classifier.py file to classify and test the image with the saved model.
