@@ -1,10 +1,5 @@
 # Character Recognition from Tamil Palm Leaves: A Comparative Analysis of Different Classification Models
 
-### Team 05
-### Nandhitha Ravishankar
-### P Sadhana
-
-
 Code file contains
 - CharacterFolder.ipynb which extrats the characters from the Palm Leaves
 - Resize_Image.ipynb which resizes the the image to the size that we want
@@ -22,3 +17,9 @@ UI Code
 - Contains a .py file
 - To run this, make sure that streamlit is installed and all the required packages are installed as well. The run the command
 streamlit run Team5_UI_Code.py
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Team 05
+- Nandhitha Ravishankar - BL.EN.U4AIE20041
+- P Sadhana - BL.EN.U4AIE20047
