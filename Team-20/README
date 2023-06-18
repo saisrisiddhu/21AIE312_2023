@@ -18,6 +18,6 @@ gradio
 opencv-python
 
 HOW TO RUN
-The dataset can be loaded from dataset.zip file.
+The dataset can be loaded from https://www.kaggle.com/datasets/prahladmehandiratta/cervical-cancer-largest-dataset-sipakmed .
 Run the file DLSIP RESNET50 91.ipynb for performing the classification of cervical cancer cells. The trained model is stored as an .h5 file.
 Run the file GUI_CervicalCancerCellClassification.ipynb which makes use of image_classifier.py file to classify and test the image with the saved model.
